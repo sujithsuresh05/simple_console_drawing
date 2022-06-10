@@ -1,6 +1,5 @@
 # simple_console_drawing
 
-###########################################################################################################
 <pre>
 # USAGE
 
@@ -62,9 +61,8 @@ enter command: B 10 3 o
 |     xoooooooooooooo|
 ----------------------
 
-############################################################################################################
 
-Build and Run Commands
+<br> Build and Run Commands </br>
 
   Jar building mvn package
   Run Test mvn test
