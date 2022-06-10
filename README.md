@@ -68,7 +68,6 @@ enter command: B 10 3 o
   Run Test mvn test
   Run application java -jar simple-console-drawing-0.0.1-SNAPSHOT.jar
   
-############################################################################################################
 
 External Libraries
 
@@ -76,8 +75,5 @@ External Libraries
 2. Jupitor Junit 5 -> to do Junit test
 
 Build Tool : Maven
-
-
-############################################################################################################
 
 </pre>
