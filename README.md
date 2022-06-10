@@ -1,6 +1,7 @@
 # simple_console_drawing
 
 ############################################################################################################
+
 # USAGE
 
 # Command 	   	Description
@@ -17,6 +18,7 @@ Q               Quit.
 # Example
 
 enter command: C 20 4
+
 ----------------------
 |                    |
 |                    |
@@ -25,6 +27,7 @@ enter command: C 20 4
 ----------------------
 
 enter command: L 1 2 6 2
+
 ----------------------
 |                    |
 |xxxxxx              |
@@ -33,6 +36,7 @@ enter command: L 1 2 6 2
 ----------------------
 
 enter command: L 6 3 6 4
+
 ----------------------
 |                    |
 |xxxxxx              |
@@ -41,6 +45,7 @@ enter command: L 6 3 6 4
 ----------------------
 
 enter command: R 14 1 18 3
+
 ----------------------
 |             xxxxx  |
 |xxxxxx       x   x  |
@@ -49,12 +54,14 @@ enter command: R 14 1 18 3
 ----------------------
 
 enter command: B 10 3 o
+
 ----------------------
 |oooooooooooooxxxxxoo|
 |xxxxxxooooooox   xoo|
 |     xoooooooxxxxxoo|
 |     xoooooooooooooo|
 ----------------------
+
 #############################################################################################################
 
 Build and Run Commands
